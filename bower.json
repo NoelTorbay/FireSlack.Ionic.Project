@@ -1,0 +1,15 @@
+{
+  "name": "FireSlack",
+  "authors": [
+    "Noel Griffin"
+  ],
+  "description": "Slack clone using AngularFire, Ionic and Cordova",
+  "version": "0.1.0",
+  "private": true,
+  
+  "dependencies": {
+    "angularfire": "~1.1.1",
+    "angular-md5": "~0.1.7",
+    "ionic": "~1.0.0"
+  }
+}
